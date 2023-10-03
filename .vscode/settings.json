@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "/home/suprim/Рабочий стол/7121_labs_Yurkov/7121_labs_Yurkov/File",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
